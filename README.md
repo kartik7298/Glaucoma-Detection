@@ -15,3 +15,14 @@ diagnosis method using an eyeground photograph reading mode. This avoids expensi
 complex detection equipment with a low cost and highly efficient method. This can be carried
 out by building a database, comparison of subject’s eye images and display of result under a
 three-level networking system.
+
+## Working Samples
+
+### Input Image
+![input](https://user-images.githubusercontent.com/100721546/156236142-081fd335-9900-4297-b4dd-cd1fdbd752cb.png)
+
+### Output - Infected Part
+![output1](https://user-images.githubusercontent.com/100721546/156236268-abb10a01-f688-44f1-89f4-80553a4a4d6b.png)
+
+### Liquid Cloting Part
+![output2](https://user-images.githubusercontent.com/100721546/156236327-3a5b792d-5195-445a-a4fe-311b8ef340ca.png)
